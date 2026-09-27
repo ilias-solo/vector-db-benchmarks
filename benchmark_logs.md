@@ -102,3 +102,11 @@
 - **p99 Latency:** 41.18 ms
 - **Recall@10:** 0.8627
 - **Status:** Test completed successfully. Index optimized.
+
+### Benchmark Run - 2026-09-27 07:23:50
+- **Database:** Chroma
+- **Dataset:** SIFT1M
+- **Query Throughput:** 3464 ops/sec
+- **p99 Latency:** 34.21 ms
+- **Recall@10:** 0.9805
+- **Status:** Test completed successfully. Index optimized.
