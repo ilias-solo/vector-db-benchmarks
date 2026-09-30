@@ -126,3 +126,11 @@
 - **p99 Latency:** 3.67 ms
 - **Recall@10:** 0.8717
 - **Status:** Test completed successfully. Index optimized.
+
+### Benchmark Run - 2026-09-30 09:51:27
+- **Database:** Qdrant
+- **Dataset:** SIFT1M
+- **Query Throughput:** 3465 ops/sec
+- **p99 Latency:** 3.22 ms
+- **Recall@10:** 0.9473
+- **Status:** Test completed successfully. Index optimized.
