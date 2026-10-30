@@ -294,3 +294,11 @@
 - **p99 Latency:** 42.0 ms
 - **Recall@10:** 0.8876
 - **Status:** Test completed successfully. Index optimized.
+
+### Benchmark Run - 2026-10-30 18:43:44
+- **Database:** Weaviate
+- **Dataset:** SIFT1M
+- **Query Throughput:** 1714 ops/sec
+- **p99 Latency:** 30.14 ms
+- **Recall@10:** 0.9343
+- **Status:** Test completed successfully. Index optimized.
