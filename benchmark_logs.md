@@ -302,3 +302,11 @@
 - **p99 Latency:** 30.14 ms
 - **Recall@10:** 0.9343
 - **Status:** Test completed successfully. Index optimized.
+
+### Benchmark Run - 2026-10-31 19:51:56
+- **Database:** Faiss
+- **Dataset:** SIFT1M
+- **Query Throughput:** 3557 ops/sec
+- **p99 Latency:** 36.61 ms
+- **Recall@10:** 0.8973
+- **Status:** Test completed successfully. Index optimized.
