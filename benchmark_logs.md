@@ -390,3 +390,11 @@
 - **p99 Latency:** 41.04 ms
 - **Recall@10:** 0.9569
 - **Status:** Test completed successfully. Index optimized.
+
+### Benchmark Run - 2026-11-16 16:11:36
+- **Database:** Milvus
+- **Dataset:** SIFT1M
+- **Query Throughput:** 2510 ops/sec
+- **p99 Latency:** 27.53 ms
+- **Recall@10:** 0.9679
+- **Status:** Test completed successfully. Index optimized.
